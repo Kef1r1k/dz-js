@@ -1,0 +1,41 @@
+.box{
+  width:300px;
+  height:300px;
+  display: inline-block;
+  margin:20px;
+}
+.red{
+  background-color:red;
+}
+
+.blue{
+  background-color:blue;
+}
+.green{
+  background-color:green;
+}
+
+.pink{
+  background-color:pink;
+}
+.cyan{
+  background-color:cyan;
+}
+.orange{
+  background-color:orange;
+}
+.yellow{
+  background-color:yellow;
+}
+.violet{
+  background-color:violet;
+}
+.gray{
+  background-color:gray;
+}
+.black{
+  background-color:black;
+}
+.green2{
+  background-color:lightgreen;
+}
